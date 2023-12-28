@@ -81,3 +81,4 @@ cd /tmp/util-linux
 * Use lower-case filenames for all image files.
 * Audit screenshots and always blur out personal or confidential information, such as usernames or IP addresses.
 * Crop screenshots containing excessive visual elements/information to better focus on the relevant sections.
+* Sergio 
